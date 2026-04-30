@@ -4,7 +4,7 @@
   "release_notes": "Favori bildirimler, ML skor sistemi eklendi",
   "release_notes_tr": "Favori bildirimler ve önem skoru eklendi",
   "apk_url": "https://github.com/MirlivaSh/NotisFirmAutoUpCopyright/releases/download/v1.0.0/notis-1.0.0.apk",
-  "sha256": "2A2073008F765FC1B154E3F07822A14B12DDB67D4A779DC5818DB1421F3284BF",
+  "sha256": "26849ACA4FA0B3D6EC15EC24CFE7BEA28179CE9E02B5C36190982D0FF4DE41AC",
   "min_sdk": 26,
   "mandatory": false,
   "released_at": "2026-04-30T00:00:00Z",
