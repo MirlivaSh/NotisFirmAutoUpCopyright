@@ -1,16 +1,12 @@
 {
-  "version_code": 2,
-  "version_name": "1.1",
-  "release_notes": "V1.1 Test Metni",
-  "release_notes_tr": "V1.1 Test",
-  "apk_url": "https://github.com/MirlivaSh/NotisFirmAutoUpCopyright/releases/download/v1.1/notisapp.apk",
-  "sha256": "e362ad7cc8fac4baa8b9b487ff04a65dac43f91a643822f9b43a6cda8e6ea22d",
+  "version_code": 3,
+  "version_name": "1.2",
+  "release_notes": "V1.2 Beta Version",
+  "release_notes_tr": "V1.1 Beta Version",
+  "apk_url": "https://github.com/MirlivaSh/NotisFirmAutoUpCopyright/releases/download/v1.2/notisapp.apk",
+  "sha256": "4ea63dc22af89c3f6cf5bb48b2ba64c67356f9f250ed763559231110ebaea904",
   "min_sdk": 26,
   "mandatory": false,
   "released_at": "2026-04-30T00:00:00Z",
-  "changelog": [
-    "Favori bildirimler eklendi",
-    "ML önem skoru sistemi",
-    "Widget iyileştirmeleri"
-  ]
+  "changelog": []
 }
